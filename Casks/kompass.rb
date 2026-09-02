@@ -1,6 +1,6 @@
 cask "kompass" do
-  version "1.0.16"
-  sha256 "8fce23ffe914f2cb9587849120d62f5297159b97a05c0da7883e009ad3c30e8f"
+  version "1.0.17"
+  sha256 "162b76311b4b5dd45ba23bc4f3b31e5b3ef43a90ae41051f00b520575d889ab7"
 
   url "https://github.com/erango/kompass/releases/download/v#{version}/Kompass-#{version}.dmg"
   name "Kompass"
