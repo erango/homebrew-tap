@@ -1,8 +1,8 @@
 class Ccfind < Formula
   desc "Find and resume Claude Code sessions across every directory"
   homepage "https://github.com/erango/ccfind"
-  url "https://github.com/erango/ccfind/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "118e0da9c92a88b984a8025813f62d3ef8cd937d95aa4bad828bd3a25e661da8"
+  url "https://github.com/erango/ccfind/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "92cebcee734802c6cf67c5fb7dd374b1b79d246bf964f9fe11c1349eaa22c5df"
   license "MIT"
 
   depends_on "jq"
