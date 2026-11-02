@@ -1,6 +1,6 @@
 cask "monitor-glue" do
-  version "1.1.0"
-  sha256 "ba2956a6092456ff6fe916cffc21c17d2c889a468de99c160342f60e74864193"
+  version "1.2.0"
+  sha256 "ecf811b3f4d7b27d0c2035d0fba3667f313e1279685db7e2bb34e9e02471efe0"
 
   url "https://github.com/erango/monitor-glue/releases/download/v#{version}/MonitorGlue.zip"
   name "Monitor Glue"
