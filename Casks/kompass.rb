@@ -5,7 +5,7 @@ cask "kompass" do
   url "https://github.com/erango/kompass/releases/download/v#{version}/Kompass-#{version}.dmg"
   name "Kompass"
   desc "Beautiful, fast Kubernetes desktop app (Rust + Dioxus)"
-  homepage "https://github.com/erango/kompass"
+  homepage "https://erango.github.io/kompass/"
 
   depends_on :macos
 
