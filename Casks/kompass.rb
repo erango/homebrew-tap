@@ -7,11 +7,7 @@ cask "kompass" do
   desc "Beautiful, fast Kubernetes desktop app (Rust + Dioxus)"
   homepage "https://github.com/erango/kompass"
 
-  app "Kompass.app"
+  depends_on :macos
 
-  caveats <<~EOS
-    Kompass is not yet signed or notarized. On first launch, right-click the
-    app and choose Open, or run:
-      xattr -dr com.apple.quarantine "#{appdir}/Kompass.app"
-  EOS
+  app "Kompass.app"
 end
