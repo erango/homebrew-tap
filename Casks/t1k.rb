@@ -1,6 +1,6 @@
 cask "t1k" do
-  version "0.1.12"
-  sha256 "49c62f1de30490b9bbc60a3ab8c95bf62a5dc4ed2401fe7d09647aba75f4c771"
+  version "0.1.13"
+  sha256 "d8d1e5157e320011972062b57828d33f7b5aa61222ed33802b7870962d8e0ab2"
 
   url "https://github.com/erango/t1k/releases/download/v#{version}/T1K-#{version}.zip"
   name "T1K"
